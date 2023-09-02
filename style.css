@@ -202,7 +202,10 @@ p{
     font-family: 'Source Code Pro', monospace;
     margin: 12px;
 }
-
+ .cs{
+    font-family: 'Source Code Pro', monospace;
+    margin: 12px;
+ }
 .skillcontainer{
     padding:12px ;
 }
